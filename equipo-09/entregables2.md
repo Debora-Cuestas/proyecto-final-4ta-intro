@@ -17,3 +17,6 @@
 1- ¿Cuál consideran que es la mejor manera para enterrar el código de la trivia dentro del código realizado para la página web?
 2. Si pretendemos agregar animaciones escritas en lenguaje java script,¿es mejor agregarlas al código de la trivia o directamente a la página web?
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
+
+
+Retroalimentación entregada en el Foro :)
